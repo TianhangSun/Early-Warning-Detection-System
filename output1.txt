@@ -1,0 +1,1 @@
+sensor5: 15475 sensor6: 12579 sensor7: 16580 sensor8: 16788 sensor9: 17508 sensor13: 15859 sensor14: 15155 sensor15: 13475 

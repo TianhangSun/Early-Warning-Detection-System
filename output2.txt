@@ -1,0 +1,1 @@
+time:15:53:06 sensor0: 17668 sensor1: 17764 sensor2: 17492 sensor3: 17828 sensor4: 16404 sensor10: 18628 sensor11: 16980 sensor12: 15779 
